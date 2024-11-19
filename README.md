@@ -85,3 +85,5 @@ Integration with IoT devices for real-time water quality monitoring.
 Advanced analytics for predictive insights on fish growth and health.
 3. **Multi-language**: 
 Multi-language support for ease of use across regions.
+1. **App**:
+Database app for portability with offline functionality 
